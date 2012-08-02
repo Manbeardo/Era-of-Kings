@@ -25,3 +25,4 @@ sf::Drawable Displayable::GetDrawable() {
 void Displayable::SetDrawable(sf::Drawable val) {
     myDrawable = val;
 }
+
