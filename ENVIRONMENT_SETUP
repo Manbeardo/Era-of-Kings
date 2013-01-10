@@ -1,0 +1,10 @@
+1. Download VirtualBox for your platform (https://www.virtualbox.org/wiki/Downloads)
+2. Install VirtualBox (defaults should be acceptable)
+3. Download the Ubuntu 12.10 64-bit ISO (http://www.ubuntu.com/download/desktop/thank-you?release=latest&bits=64&distro=desktop&status=zeroc)
+4. Create your Ubuntu VM
+   a. Start up VirtualBox
+   b. Click the "new" button in the top-left corner
+   c. Put "Era of Kings dev" or something similar in the name field
+   d. Choose "Linux" and "Ubuntu (64-bit)" from the drop-down menus
+   e. Click next
+   f. Choose a memory size that seems reasonable and click next
